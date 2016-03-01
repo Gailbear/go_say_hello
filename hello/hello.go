@@ -2,7 +2,7 @@ package main
 
 import (
     "fmt"
-    "github.com/gailbear/stringutil"
+    "github.com/gailbear/go_say_hello/stringutil"
 )
 
 func main() {
